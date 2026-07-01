@@ -1,59 +1,43 @@
-# LEEP BIOINFO
+<p align="center">
+  <img src="./assets/logo_leep.png" alt="LEEP BIOINFO main visual" width="900">
+</p>
 
-**Laboratory of Structure and Evolution of Proteins – Bioinformatics**  
-Institute of Biomedical Sciences, University of São Paulo
+<h1 align="center">LEEP BIOINFO</h1>
 
-LEEP BIOINFO develops computational approaches to investigate protein structure, molecular evolution, comparative genomics and biological data analysis.
+<p align="center">
+  <strong>Laboratory of Protein Structure and Evolution – Bioinformatics</strong><br>
+  Department of Microbiology, Institute of Biomedical Sciences, University of São Paulo
+</p>
 
-This GitHub organization hosts tools, datasets, tutorials and workflows developed or maintained by the bioinformatics group of the Laboratory of Structure and Evolution of Proteins.
-
----
-
-## Research areas
-
-| Area | Description |
-|---|---|
-| **Protein evolution** | Comparative analysis of protein families, domains, architectures and molecular innovation. |
-| **Structural bioinformatics** | Protein structure prediction, model evaluation, fold comparison and complex annotation. |
-| **Microbial genomics** | Comparative genomics, secretion systems, mobile elements and bacterial protein systems. |
-| **Reproducible workflows** | Pipelines for sequence, structure, proteomics and genome-scale analyses. |
-| **HPC infrastructure** | Bioinformatics workflows adapted to high-performance computing environments. |
+<p align="center">
+  <img src="./assets/leep_icon.jpg" alt="LEEP icon" width="120">
+</p>
 
 ---
+
+## About
+
+LEEP BIOINFO develops and maintains computational resources for structural bioinformatics, protein evolution, comparative genomics, molecular modeling, high-performance computing workflows, and biological data integration.
+
+The group works at the interface between microbiology, protein structure, evolutionary biology, omics data analysis, and reproducible computational infrastructure.
 
 ## Main repositories
 
-| Repository | Description |
-|---|---|
-| [rotifer](https://github.com/leepusp/rotifer) | Core framework and command-line tools for bioinformatics workflows. |
-| [rotifer_data](https://github.com/leepusp/rotifer_data) | Models and databases used by Rotifer. |
-| [rotifertut2025.1](https://github.com/leepusp/rotifertut2025.1) | Tutorial and training material for Rotifer. |
-| [biobank](https://github.com/leepusp/biobank) | Tools and organization for biological sample collections. |
+- **DaVinci HPC** – infrastructure, documentation, and workflows for the DaVinci high-performance computing environment.
+- **Biobank** – digital platform and data organization resources for biological collections and metadata.
+- **Rotifer** – computational tools and workflows for comparative genomics and protein family analysis.
+- **LEEP website** – private WordPress site snapshot containing custom code, scripts, manifests, and controlled assets.
 
----
+## Website
 
-## Interactive resources
-
-Explore selected examples from our research workflows:
-
-- **Protein structure viewer** — interactive 3D protein visualization.
-- **Genome browser** — microbial genomic regions and annotations.
-- **Phylogenetic viewer** — trees and evolutionary metadata.
-- **Sequence alignment viewer** — conserved motifs and protein family analysis.
-
-Interactive portal:
-
-https://leepusp.github.io
-
----
-
-## Institutional website
+Visit the LEEP BIOINFO website:
 
 https://leep.icb.usp.br/
 
----
+## Team
 
-## Contact
+LEEP BIOINFO is part of the Institute of Biomedical Sciences at the University of São Paulo.
 
-**Laboratory of Structure and Evolution of Proteins – Bioinformatics**  
-Institute of Biomedical Sciences, University of São Paulo
+Team page:
+
+https://leep.icb.usp.br/team/?v=team-lattes-php1
