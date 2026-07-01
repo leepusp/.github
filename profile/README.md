@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo_leep.png" alt="LEEP BIOINFO main visual" width="900">
+  <img src="./assets/logo_leep.png" alt="LEEP BIOINFO main visual" width="650">
 </p>
 
 <h1 align="center">LEEP BIOINFO</h1>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/leep_icon.jpg" alt="LEEP icon" width="120">
+  <img src="./assets/leep_icon.png" alt="LEEP icon" width="120">
 </p>
 
 ---
