@@ -1,16 +1,8 @@
-<p align="center">
-  <img src="./assets/logo_leep.png" alt="LEEP BIOINFO main visual" width="650">
-</p>
-
 <h1 align="center">LEEP BIOINFO</h1>
 
 <p align="center">
   <strong>Laboratory of Protein Structure and Evolution – Bioinformatics</strong><br>
   Department of Microbiology, Institute of Biomedical Sciences, University of São Paulo
-</p>
-
-<p align="center">
-  <img src="./assets/leep_icon.png" alt="LEEP icon" width="120">
 </p>
 
 ---
