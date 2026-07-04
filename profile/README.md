@@ -19,10 +19,18 @@ Visit the LEEP BIOINFO website:
 
 https://leep.icb.usp.br/
 
-## Team
+## Bioinformatics 
 
-LEEP BIOINFO is part of the Institute of Biomedical Sciences at the University of São Paulo.
+LEEP BIOINFO interactive portal
+This repository hosts the GitHub Pages portal for LEEP BIOINFO.
 
-Team page:
+The portal includes interactive resources for:
 
-https://leep.icb.usp.br/team/?v=team-lattes-php1
+protein structure visualization
+comparative genomics
+phylogenetic analysis
+sequence alignment visualization
+reproducible bioinformatics workflows
+Website:
+
+https://leepusp.github.io
